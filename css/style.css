@@ -1,0 +1,41 @@
+body {
+    font-family: Arial;
+    font-size: 10pt;
+    color: #555555;
+}
+
+#tartalom {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#fejlec {
+    background-image: url("../kepek/fejlec.jpg");
+    background-size: 700px 116px;
+    height: 116px;
+}
+
+#recept {}
+
+#bevezeto {}
+
+.fank {
+    float: left;
+    margin-right: 30px;
+}
+
+#hozzavalok {}
+
+#reszletek {
+    clear: both;
+    display: table;
+}
+
+#sztori {
+    display: table-cell;
+}
+
+#elkeszites {
+    display: table-cell
+}
